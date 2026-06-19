@@ -1,6 +1,6 @@
 ---
 title: Welcome to GIS Notes
-description: A digital garden for Geographic Information Systems, Geodesy, and Cartography concepts.
+description: A digital garden for Geographic Information Systems, Geodesy, and Maritime Navigation concepts.
 ---
 
 This website is a collection of fundamental concepts, theories and practical refernces related to Geographic Information Systems (GIS), Geodesy, and Maritime Navigation.
