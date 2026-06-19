@@ -41,4 +41,15 @@ There are various file formats used to store raster data. Some of them are: TIFF
 - **Pros:** It is really good for showing individual features, but difficult to show continuous data (although contour lines can be used for continuous data). It can also handle complex attributes really well. Features can connect as well overlap on top of each other.
 - **Cons:** It may give impression of precision.
 
+There are a number of file formats used for vector data such as SHP (shape files), GPKG, GeoJSON, GML, and many more.
+
 ![[Pasted image 20260619223803.png]]
+
+### 3. Other Data Types
+There are other less common but more specialized data formats such as Triangular irregular networks and Unstructured mesh. 
+
+> [!tip]
+> Rasters and Vectors are much more common and are sufficient for most GIS tasks.
+
+## Resources
+- https://youtu.be/3JD_EzuoTUs?si=4J1eIvO8RysADicJ
