@@ -1,3 +1,6 @@
+---
+title: 1. Introduction to Geodesy
+---
 ### Geodesy
 **Geodesy** is the study of the shape and size of the Earth. 
 

@@ -1,3 +1,7 @@
+---
+title: 4. Fundamentals of Cartography
+---
+
 ## Why Make Maps?
 Before creating a map, ask yourself:
 *   What is the purpose of the map?

@@ -1,3 +1,7 @@
+---
+title: 3. Scale & Projections
+---
+
 ## Map Scale
 Scale is used to represent the massive Earth within the limited space we have. It is a unitless measure and acts as a ratio.
 

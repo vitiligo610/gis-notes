@@ -1,3 +1,7 @@
+---
+title: 2. Determining Position on the Planet
+---
+
 ### Latitude
 The **Equator** is perpendicular to the axis of the Earth and splits the planet into the North and South hemispheres. Latitude helps determine how far north or south from the equator you are.
 
