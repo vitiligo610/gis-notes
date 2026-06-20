@@ -1,7 +1,6 @@
 ---
 title: 5. Navigation Principles
 ---
-
 ## Direction and Bearings
 *   **True North:** The geographic North Pole. It does not move and serves as the reference point for *True Bearings*.
 *   **Relative North:** The direction the ship's bow is pointing. It moves when the ship moves and serves as the reference point for *Relative Bearings*.

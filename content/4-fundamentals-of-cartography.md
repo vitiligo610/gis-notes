@@ -1,7 +1,6 @@
 ---
 title: 4. Fundamentals of Cartography
 ---
-
 ## Why Make Maps?
 Before creating a map, ask yourself:
 *   What is the purpose of the map?
@@ -21,3 +20,6 @@ To build an effective layout, always include:
 8.  Source & Date of the Data
 9.  Date the map was created
 10. Always arrange elements in an effective layout.
+
+## Reference
+- Why Make Maps | https://youtu.be/_D7aXg0NtuU

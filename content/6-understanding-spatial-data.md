@@ -52,5 +52,5 @@ There are other less common but more specialized data formats such as Triangular
 > Rasters and Vectors are much more common and are sufficient for most GIS tasks.
 
 ## Resources
-- Understanding Spatial Data | https://youtu.be/3JD_EzuoTUs?si=4J1eIvO8RysADicJ
+- Understanding Spatial Data | https://youtu.be/3JD_EzuoTUs
 - GeoJSON interactive drawing/code | https://geojson.io/
